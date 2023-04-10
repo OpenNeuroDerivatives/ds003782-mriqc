@@ -1,0 +1,15 @@
+Warning: Permanently added 'c151-201' (ECDSA) to the list of known hosts.
+WARNING (03/02/23 08:36:06): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.5276569.hostlist.KCvt6cis to get hosts
+starting job on c151-201
+starting job on c152-174
+starting job on c152-182
+starting job on c153-042
+starting job on c153-052
+starting job on c153-084
+starting job on c153-124
+starting job on c172-162
+slurmstepd: error: *** JOB 5276569 ON c151-201 CANCELLED AT 2023-03-02T10:25:19 ***
+Killed by signal 15.
+Killed by signal 15.
+Terminated
